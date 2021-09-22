@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileInformer", "ProfileInformer\ProfileInformer.csproj", "{C5D15BD3-434F-4D86-8594-C3F4C6362D47}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "User", "User\User.vdproj", "{DF6EAC3E-1A51-4C73-B922-77BAE8DB4D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D15BD3-434F-4D86-8594-C3F4C6362D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D15BD3-434F-4D86-8594-C3F4C6362D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D15BD3-434F-4D86-8594-C3F4C6362D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D15BD3-434F-4D86-8594-C3F4C6362D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6EAC3E-1A51-4C73-B922-77BAE8DB4D4C}.Debug|Any CPU.ActiveCfg = Debug
+		{DF6EAC3E-1A51-4C73-B922-77BAE8DB4D4C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
